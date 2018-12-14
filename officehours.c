@@ -1,9 +1,3 @@
-/*
-  Name: Nhan Le
-  ID: 1000589528
-*/
-
-
 #include <pthread.h>
 #include <semaphore.h>
 #include <unistd.h>
